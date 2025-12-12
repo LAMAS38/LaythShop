@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "MacBook Pro 16 pouces",
+    "description": "Ordinateur portable professionnel avec puce M3 Pro, 18 Go de RAM et 512 Go de SSD. Parfait pour le développement et la création de contenu.",
+    "price": 3299.99,
+    "category": "Électronique",
+    "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+    "stock": 12,
+    "createdAt": "2024-12-01T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "iPhone 15 Pro",
+    "description": "Smartphone haut de gamme avec puce A17 Pro, appareil photo 48MP et écran Super Retina XDR de 6.1 pouces.",
+    "price": 1399.99,
+    "category": "Électronique",
+    "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+    "stock": 25,
+    "createdAt": "2024-12-02T14:30:00Z"
+  },
+  {
+    "id": "3",
+    "name": "AirPods Pro (2ᵉ génération)",
+    "description": "Écouteurs sans fil avec réduction active du bruit, son spatial personnalisé et jusqu'à 6 heures d'autonomie.",
+    "price": 329.99,
+    "category": "Électronique",
+    "imageUrl": "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?w=500",
+    "stock": 48,
+    "createdAt": "2024-12-03T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Chaise de bureau ergonomique",
+    "description": "Chaise de bureau premium avec support lombaire réglable, accoudoirs 4D et dossier en maille respirante. Idéale pour de longues sessions de travail.",
+    "price": 449.99,
+    "category": "Mobilier",
+    "imageUrl": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=500",
+    "stock": 8,
+    "createdAt": "2024-12-04T11:45:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Clavier mécanique RGB",
+    "description": "Clavier gaming avec switches mécaniques Cherry MX, rétroéclairage RGB personnalisable et repose-poignet magnétique.",
+    "price": 189.99,
+    "category": "Accessoires",
+    "imageUrl": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=500",
+    "stock": 34,
+    "createdAt": "2024-12-05T16:20:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Souris sans fil MX Master 3S",
+    "description": "Souris ergonomique professionnelle avec capteur 8000 DPI, défilement magnétique et connectivité multi-appareils.",
+    "price": 129.99,
+    "category": "Accessoires",
+    "imageUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500",
+    "stock": 22,
+    "createdAt": "2024-12-06T13:00:00Z"
+  }
+]
